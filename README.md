@@ -2,11 +2,10 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>我的一个C语言作业</title>
 </head>
 
 <body>
-<p><strong><font size="+5"><center>魔方阵</center></font></strong></h1></p><br /><br />
+<p><strong><font size="+5"><center>魔方阵（每一行、每一列、每一斜线上的数相加都相等）</center></font></strong></h1></p><br /><br />
 <p><font size="+3">魔方阵的排列规律:</font></p><br />
 <p><font size="+3">(1)   将1放在第一行中间一列；</font></p><br />
 <p><font size="+3">(2)   从2开始直到n×n止各数依次按下列规则放每一个数存放的行比前一个数的行数减1，列数加1（例如上面的三阶魔方阵，5在4的上一行后一列）；</font></p><br />
