@@ -20,7 +20,7 @@
 <p style="text-indent:20em"><font size="+3">运行结果如下</font></p>
 <P><center><img src="https://github.com/jidaozuoye/zzq/blob/master/%E4%BB%A3%E7%A0%81/2017-12-18_150139.png" width="970" height="540" /></center></P><br /><br />
 <p style="text-indent:20em"><font size="+3">该代码需要用 Dev-C++ 中运行：</font></p>
-<p><font size="+3"><center>魔方阵代码.cpp  <a href="https://github.com/jidaozuoye/zzq/blob/master/%E4%BB%A3%E7%A0%81/%E9%AD%94%E6%96%B9%E9%98%B5%E4%BB%A3%E7%A0%81.cpp">点击查看</a></center></font></p><br />
+<p><font size="+3"><center>魔方阵代码.cpp  <a href="https://github.com/jidaozuoye/zzq/blob/master/%E4%BB%A3%E7%A0%81/%E9%AD%94%E6%96%B9%E9%98%B5%E4%BB%A3%E7%A0%81.cpp">点击查看</a></center></font></p>
 <p><font size="+3"><center>软件Dev-C++  <a href="../网页文件/代码/Dev-Cpp 5.11 TDM-GCC 4.9.2 Setup.exe">点击下载</a>
 </center></font></p>
 </body>
